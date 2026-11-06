@@ -1,0 +1,7 @@
+.idea/
+clean_env/
+venv/
+vok_env/
+wechat_ocr_pkg/
+__pycache__/
+*.pyc
